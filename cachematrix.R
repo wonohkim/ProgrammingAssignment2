@@ -8,7 +8,9 @@
 
 
 ############################################################
-## Assignment: Caching the Inverse of a Matrix
+## Assignment: 
+## Caching the Inverse of a Matrix problem
+## (Put the code into GitHub)
 ##
 ## Code to test functions:
 ##
