@@ -2,7 +2,7 @@
 ## Coursera -- R Programming 
 ## Program Assignment 2: Lexical Scoping
 ##
-## Programmed by Wonoh Kim  08/20/2014
+## Programmed by Wonoh Kim  10/20/2014
 ## wonoh.kim@flukenetworks.com
 ############################################################
 
